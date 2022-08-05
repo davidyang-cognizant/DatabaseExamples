@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406188879394",
+    "project_id": "friendly-eats-1f83b",
+    "storage_bucket": "friendly-eats-1f83b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406188879394:android:ed81198cd09ebe6349247b",
+        "android_client_info": {
+          "package_name": "com.example.roomsdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406188879394-ma63mf97m6aq2dhnu00iai656cgov8bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLVy51sUKP1AaDztn6LBdS0_S2RRthoY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406188879394-ma63mf97m6aq2dhnu00iai656cgov8bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
